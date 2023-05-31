@@ -20,7 +20,7 @@
 
         // functions
         function addition($a,$b){
-            return a + b;
+            return $a + $b;
         }
 
         function addFunction($num1, $num2) {
